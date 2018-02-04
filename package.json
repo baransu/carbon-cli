@@ -1,11 +1,23 @@
 {
   "name": "@baransu/carbon-cli",
   "version": "0.1.1",
-  "description": "Generate https://carbon.now.sh screenshots from your console 📸 🌈 🦄",
+  "description":
+    "Generate https://carbon.now.sh screenshots from your console 📸 🌈 🦄",
   "main": "index.js",
-  "files": [
-    "index.js"
-  ],
+  "keywords": ["carbon.now.sh", "screenshot", "code", "cli"],
+  "author": {
+    "name": "Tomasz Cichocinski",
+    "email": "tomaszcichocinski@gmail.com",
+    "url": "https://github.com/baransu/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baransu/carbon-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/baransu/carbon-cli/issues"
+  },
+  "files": ["index.js"],
   "bin": {
     "carbon-cli": "./index.js"
   },
