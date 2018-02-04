@@ -1,6 +1,6 @@
 # carbon-cli
 
-> Generate https://carbon.now.sh screenshots from your console
+> Generate https://carbon.now.sh screenshots from your console 📸 🌈 🦄
 
 ## Usage
 
