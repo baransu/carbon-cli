@@ -1,10 +1,11 @@
 {
   "name": "carbon-cli",
-  "version": "0.0.0",
-  "description":
-    "Generate https://carbon.now.sh screenshots from your console 📸 🌈 🦄",
+  "version": "0.1.0",
+  "description": "Generate https://carbon.now.sh screenshots from your console 📸 🌈 🦄",
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "bin": {
     "carbon-cli": "./index.js"
   },
