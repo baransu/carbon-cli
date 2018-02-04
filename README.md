@@ -2,6 +2,14 @@
 
 > Generate https://carbon.now.sh screenshots from your console 📸 🌈 🦄
 
+## Install
+
+```
+yarn add global @baransu/carbon-cli
+# or
+npm install -g @baransu/carbon-cli
+```
+
 ## Usage
 
 ```
