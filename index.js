@@ -5,6 +5,7 @@ const puppeteer = require("puppeteer");
 const qs = require("query-string");
 const globby = require("globby");
 const util = require("util");
+require('util.promisify').shim()
 const fs = require("fs");
 
 const readFile = util.promisify(fs.readFile);
