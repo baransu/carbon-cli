@@ -4,11 +4,10 @@ const meow = require("meow");
 const puppeteer = require("puppeteer");
 const qs = require("query-string");
 const globby = require("globby");
-const util = require("util");
-require('util.promisify').shim()
+const promisify = require('util.promisify')
 const fs = require("fs");
 
-const readFile = util.promisify(fs.readFile);
+const readFile = promisify(fs.readFile);
 
 const cli = meow(
   `
