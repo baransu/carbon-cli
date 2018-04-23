@@ -1,6 +1,6 @@
 {
   "name": "@baransu/carbon-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Generate https://carbon.now.sh screenshots from your console 📸 🌈 🦄",
   "main": "index.js",
   "keywords": [
